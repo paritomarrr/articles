@@ -9,7 +9,7 @@ contract CPAMM {
     IERC20 public immutable token0;
     IERC20 public immutable token1;
 
-    uint public reserve0;
+    uint public reserve0; 
     uint public reserve1;
 
     uint public totalSupply;
