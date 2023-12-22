@@ -8,4 +8,4 @@ Pari Audit Group has availability for smart contract security audits. Reach out 
 
 | S. No.| Article  | Code |
 | ---|------------- | ------------- |
-|  1 |[Constant Product AMM]()  | [Link]() |
+|  1 |[Constant Product AMM](https://medium.com/@tomarpari90/constant-product-automated-market-maker-everything-you-need-to-know-5bfeb0251ef2)  | [Link](contracts/ConstantProductAMM.sol) |
